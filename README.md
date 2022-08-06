@@ -8,3 +8,7 @@
 - Once we get the response from the API, save the URLs and search terms in the database.
 - From the next search If the term is available in the database, it should directly show the result from the database.
 - We should not call API if the search term is available in the database.
+
+# Login details
+- Username: test@gmail.com
+- Password: rasmuslerdorf
