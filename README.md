@@ -1,4 +1,5 @@
 # Image-search-API
+  Image display API is a small task that explains the concepts of API like how to fetch images from API and store it into DB. If the search term is already inside the  database call instead database in case the next time user request the same search term.
 # This script is applicable to do these features...
 - Create a PHP application to show the images that we search.
 - There should have a login, login should have an email and password field ( No need of registration, for now, you can manually add one entry in the user table. ).
