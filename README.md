@@ -12,3 +12,8 @@
 # Login details
 - Username: test@gmail.com
 - Password: rasmuslerdorf
+
+# views
+![image](https://user-images.githubusercontent.com/110724391/183247244-1e2b866e-4483-4bda-a701-ae065814511d.png)
+![image](https://user-images.githubusercontent.com/110724391/183247262-453f6bf4-b4c5-4a51-b900-53752ea2c982.png)
+
