@@ -20,10 +20,10 @@
 # Installation
   Change the details inside Config/db.php
   ```php
-      $servername = "localhost";
-      $username = "u957918675_temp";
-      $password = "4~Ybxd+z";
-      $db = "u957918675_temp";
-    ```
+    $servername = "localhost";
+    $username = "u957918675_temp";
+    $password = "4~Ybxd+z";
+    $db = "u957918675_temp";
+
   
 
