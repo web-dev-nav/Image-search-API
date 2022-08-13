@@ -25,6 +25,10 @@
     $username = "u957918675_temp";
     $password = "4~Ybxd+z";
     $db = "u957918675_temp";
+  ```
+ # Youtube Explained 
+ ![image](https://user-images.githubusercontent.com/110724391/184472349-85af0da1-9f50-4154-a03c-fd6c6b1b2820.png)
+
 
   
 
